@@ -1,0 +1,11 @@
+Assignment Use-case:
+
+Cancer Detection Modelling (Label: diagnosis, Features: remaining columns except id column)
+
+Deploy two best model based on the following criteria
+
+Model1: Get the best model based on Confusion Matrix and Numerical Metrics
+
+Model2: Get the best model based on Viz Metrics
+
+
